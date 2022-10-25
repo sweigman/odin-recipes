@@ -1,1 +1,1 @@
-A project using html to build a website containing recipes
+Project using html to build a website containing recipes
